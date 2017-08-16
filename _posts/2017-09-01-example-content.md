@@ -9,12 +9,6 @@ description: >
 author: mdo
 ---
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
-
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-
 ## Inline HTML elements
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
@@ -29,7 +23,10 @@ HTML defines a long list of available inline tags, a complete list of which can 
 Most of these elements are styled by browsers with few modifications on our part.
 
 ## Heading 2
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis
+mollis, est non commodo luctus, nisi erat porttitor ligula, eget
+lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac,
+vestibulum at eros.
 
 ### Heading 3
 Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
@@ -43,25 +40,13 @@ Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
 ###### Heading 6
 Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
 
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-~~~js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those
-// arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-~~~
-
 ## Lists
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
+ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam
+porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac
+cursus commodo, tortor mauris condimentum nibh, ut fermentum massa
+justo sit amet risus.
 
 * Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 * Donec id elit non mi porta gravida at eget metus.
