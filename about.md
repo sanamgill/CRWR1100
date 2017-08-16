@@ -5,51 +5,9 @@ menu: true
 order: 4
 ---
 
-The contemporary age is one of tremendous upheaval and uncertainty for
-the literary arts. New technologies challenge established business
-practices. Nascent and rapidly emerging markets pose new questions
-about processes and products. Conflicted conversations about rights
-and the uses of creative commodity dominate an increasingly fractured
-landscape. this turbulent tumble lies the writer as artist: pressured
-by the exigencies of commerce, burdened by the minutiae of
-intellectual property law, increasingly hobbled by anxiety and
-disorientation.
+The course provides an opportunity for learners to deepen their creative process, to work on their inner development, and improve their writing. Learners are encouraged to take appropriate risks, to challenge themselves creatively -- especially when doing so provokes discomfort -- and to be open to personal and interpersonal process. The course involves many experiential activities and many moments of possible discovery.
 
-The writer now feels at the whim of indifferent and unpredictable
-forces. The buffers which once protected professional writers from the
-messiness and incipient momentum of the market are now, for the most
-part, dismantled or disintegrating. Creative and professional paths
-that once were secure are now fraught with new obstacles. The sacred
-space of creative inquiry seems under threat. The artifacts of that
-inquiry have lost much of their meaning. The casual blog has
-vanquished the thoughtful book.
+The core focus of the course is on the development of self-knowledge, which is
+the ultimate quest. Every creative tradition and cultural mythology affirms this fundamental truth. The path of self-knowledge is the most rewarding journey we can undertake, yet it is also the hardest. We are challenged by our family histories, by our cultures, by our own traumas and vulnerabilities. And yet we must persist, as all the old tales say, so that we discover the essential unity between ourselves and the cosmos. That's what creativity has always been about. At its heart, creativity is the path of illumination. No matter how much we apply modern attitudes to the creative process, that process inexorably guides us inward, toward a confrontation with our own consciousness and with the vast story of the universe. And that journey does not end: it simply tracks every more deeply into vast and unfathomable mysteries.
 
-At least, this is how it seems to many writers working today: dark
-times, enemies at the gate. But this is how all the great stories
-begin. Turbulence – emotional, cultural, political – is the source and
-fuel of creativity. The current age is thus a great gift. Artists and
-writers are now free, in the philosophical (and perhaps spiritual)
-sense, free to pursue the clamour and craft of their work, in a manner
-that we have not encountered before. Not since the audacious invention
-of writing itself. Creative Writing 1240 invites writers to discover –
-or rediscover – the unrivaled adventure of creative work in the world
-today. The path forward is not labyrinthine but requires, rather –
-like most daunting tasks – that a small number of simplicities reveal
-themselves behind the swirl of turbulence. Course participants learn
-about various technologies of creativity – this, of course, is a
-pertinent and pressing matter – but the course is not, primarily,
-another introduction to blogging, social networking, web content, and
-viral marketing. These are only the outer appearance – the carapace,
-the shell – of what amounts to a re-imagining of what it means to be a
-creative person in the world today.
-
-Creative Writing 1240 is a course about reclaiming the fundamental
-right of creative endeavour and choosing paths that lead forward.
-
-Freedom, adventure, opportunity: these are the watchwords of the
-contemporary creative professional. Every age calls its inhabitants to
-action. How do we know this? Writers tell us. How do they tell us? By
-facing their own crises of confidence, by wrestling with the emerging
-norms and practices of their time, by seizing the word as their
-instrument and their stand. Why should we expect our age to be any
-different? Why would we want it to be?
+And so, whatever point learners find themselves in their own odysseys of self-discovery, this course encourages them to do some self-examination. All the great tales arise from the journey inward, and our own versions of that journey will be the source of our deepest and best creativity.
