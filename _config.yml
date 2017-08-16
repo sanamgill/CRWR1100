@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Creative Writing 1240
+title:               Creative Writing 1200
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -13,16 +13,16 @@ url:                 crwr1200.github.io
 baseurl:             ''
 
 # A very short description of your page
-tagline:             CRWR 1240
+tagline:             CRWR 1200
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Exploring digital creativity
+  Exploring the creative process
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              Creative Writing 1240
+  name:              Creative Writing 1200
   email:             ross@rosslaird.com
 
 # Fallback image and color
@@ -142,3 +142,4 @@ atom:
   postDirs:
     - _newsletters
   defaultPostDir: _drafts
+

@@ -1,6 +1,7 @@
 ---
 date: 2006-07-01 00:25:46+00:00
 layout: post
+author: ross
 categories: [education, creativity]
 title: Blinking Cursor, Blank Page
 ---
