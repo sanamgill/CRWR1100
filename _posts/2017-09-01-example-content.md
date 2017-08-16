@@ -1,13 +1,16 @@
 ---
 layout: post
-title: Example Content
+title: Sample Content
 author: mdo
 tags: [hyde]
-published: true
 description: >
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  Howdy! This is an example blog post that shows several types of HTML content supported by the [Hydejack theme](https://qwtel.com/hydejack/). We are indebted to [Florian Klampfer](https://qwtel.com/resume/) for his exemplary work on this theme and for his excellent documentation.
 author: mdo
+categories: [education]
 ---
+
+**NOTE**: For an introduction to markdown in general, see [Mastering Markdown][mm] and [kramdown Syntax][ksyn].
+{:.message}
 
 ## Inline HTML elements
 
