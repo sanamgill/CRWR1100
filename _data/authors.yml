@@ -52,11 +52,11 @@ ross:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Ross Laird, Ph.D. is a best-selling [author](/books/), acclaimed [educator](/projects/education/),
-    and award-winning [scholar](/projects/911). He is a sought-after speaker on themes of
+    [Ross Laird](https://www.rosslaird.com), Ph.D. is a best-selling author, acclaimed educator,
+    and award-winning scholar. He is a sought-after speaker on themes of
     personal and professional development, mentorship, leadership, addictions,
-    mental health, and creativity. Ross has worked with [hundreds of organizations](/pages/organizations/)
-    and thousands of individual clients and students, from Vancouver's Downtown Eastside
+    mental health, and creativity. Ross has worked with hundreds of organizations and 
+    thousands of individual clients and students, from Vancouver's Downtown Eastside
     to corporate boardrooms and university classrooms across North America.
   picture:
     src:             /assets/img/rl_128.png
