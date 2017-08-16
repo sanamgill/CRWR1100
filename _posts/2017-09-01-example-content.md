@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example Content
+author: mdo
 tags: [hyde]
 published: true
 description: >

@@ -33,18 +33,15 @@ crwr120:
 
 # Another author
 mdo:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Florian Klampfer
+  email:             mail@qwtel.com
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
+    Hi, I’m Florian or @qwtel, which isn’t an acronym, I just wanted a
+    short username and that one happened to be available.
   picture:           https://placehold.it/128x128
   social:
-    github:          <username>
-    twitter:         <username>
+    github:          qwtel
+    twitter:         qwtel
   image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==' # http://jsfiddle.net/LPxrT/
   color: '#268bd2'
 
