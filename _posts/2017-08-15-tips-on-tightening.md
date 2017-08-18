@@ -3,7 +3,7 @@ layout: post
 title: Tips on Tightening
 author: ross
 tags: [skill]
-categories: [creativity]
+categories: [creativity, writing]
 ---
 
 For most of its history literature has taken the form of epic poetry. This history is long: five thousand years, perhaps much longer. And within the genre of epic poetry -- from the Egyptian Pyramid Texts to Homer to the Kalevala -- every word counts. The rhythm counts. Resonance and fluidity count. No slack exists in these texts, no lazy meanderings of phrase or structure. These ancients texts are spare, clean, and tight. We could learn a great deal from these archaic authors. There are reasons for the enduring quality of their texts.

@@ -3,7 +3,7 @@ layout: post
 title: Steps to Better Writing
 author: ross
 tags: [skill]
-categories: [creativity]
+categories: [creativity, writing]
 ---
 
 The oldest and greatest poems, epics, and songs – the original roots

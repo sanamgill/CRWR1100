@@ -3,7 +3,7 @@ layout: post
 title: Starting to Write
 author: ross
 tags: [mindfulness]
-categories: [creativity]
+categories: [creativity, writing]
 ---
 
 Stop whatever else you are doing. Close your email application and

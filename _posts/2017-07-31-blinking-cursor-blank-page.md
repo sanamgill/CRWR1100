@@ -2,7 +2,8 @@
 date: 2017-07-31 00:25:46+00:00
 layout: post
 author: ross
-categories: [education, creativity]
+tags: [skill]
+categories: [creativity,writing]
 title: Blinking Cursor, Blank Page
 ---
 Late in Heart of Darkness, after Marlow has meandered deep into the jungle but before he meets Kurtz, who utters his now-famous judgement upon human nature, The horror! The horror! -- before this, the most famous scene in twentieth century literature, Marlow finds himself making necessary repairs to the ship. He ruminates on these activities as distractions from the shadows around him, from the haunting underbelly of his own nature that he sees in the wilderness around him, in the passionate abandon of the local tribes-people. Here's the full passage:

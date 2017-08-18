@@ -2,7 +2,7 @@
 layout: post
 title: The Art and Craft of the Personal Essay
 tags: [skill]
-categories: [writing]
+categories: [creativity, writing]
 author: ross
 ---
 

@@ -2,7 +2,8 @@
 date: 2017-08-02 00:25:46+00:00
 layout: post
 author: ross
-categories: [education, creativity]
+tags: [myth]
+categories: [nature, creativity]
 title: 'The Bear: A Mythological Vignette'
 ---
 
