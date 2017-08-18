@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Addictions and Storytelling'
-tags: [healing, creativity]
+tags: [wellness]
 categories: [addictions]
 ---
 

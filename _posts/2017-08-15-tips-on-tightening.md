@@ -2,7 +2,7 @@
 layout: post
 title: Tips on Tightening
 author: ross
-tags: [writing]
+tags: [skill]
 categories: [creativity]
 ---
 

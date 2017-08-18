@@ -2,8 +2,8 @@
 layout: post
 title: Sentence Composition Checklist
 author: ross
-tags: [writing]
-categories: [creativity]
+tags: [skill]
+categories: [creativity, writing]
 ---
 
 This is a short list of considerations to use when seeking to write well. Review the following items in order, after writing the first draft of every sentence.

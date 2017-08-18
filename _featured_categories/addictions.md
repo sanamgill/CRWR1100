@@ -1,9 +1,9 @@
 ---
 layout: list
-title: Education
-slug: education
+title: Addicions
+slug: addiction
 description: >
-  Posts about addictions (in its various forms).
+  Posts about addiction (in its various forms).
 
 #menu: true
 #order: 2

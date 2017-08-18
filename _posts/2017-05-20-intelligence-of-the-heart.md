@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intelligence of the Heart
-tags: [heart, renewal]
+tags: [renewal]
 categories: [education]
 author: ross
 ---
