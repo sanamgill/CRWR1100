@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Addicions
-slug: addiction
+title: Addictions
+slug: addictions
 description: >
   Posts about addiction (in its various forms).
 
