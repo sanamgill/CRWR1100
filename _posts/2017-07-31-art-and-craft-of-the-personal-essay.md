@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The World Tree
-tags: [ecology]
-categories: [nature]
+title: The Art and Craft of the Personal Essay
+tags: [skill]
+categories: [writing]
 author: ross
 ---
 
