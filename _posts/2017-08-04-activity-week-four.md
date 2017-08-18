@@ -2,7 +2,7 @@
 date: 2017-08-04 00:25:46+00:00
 layout: post
 author: ross
-categories: [education, creativity]
+categories: [activity]
 title: Creative Activity for Week Four
 ---
 
