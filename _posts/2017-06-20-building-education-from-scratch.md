@@ -2,7 +2,7 @@
 layout: post
 title: On Building Education from Scratch
 tags: [renewal]
-categories: [education, consulting]
+categories: [education]
 author: ross
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Radical Teaching
 tags: [renewal]
-categories: [education, consulting]
+categories: [education]
 author: ross
 ---
 I stand in the dark, watching the lighted lamps pass. Lantern-bearers follow one another upon the spiraling path. They glide through the darkness, almost silent, their faces dimly lit by the glow of the lamps. Beyond the edge of the labyrinth, with its ever-turning gyre and folding paths, the winter night stretches toward a horizon of shadow and rain. I watch the participants pass, singly and in small groups, their faces barely visible above the illumination they carry. I imagine our collective light as a single point, visible from high in the darkling sky, a ship of amber upon a vast sea.
