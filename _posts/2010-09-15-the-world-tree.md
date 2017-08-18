@@ -2,7 +2,7 @@
 layout: post
 title: The World Tree
 tags: [ecology]
-categories: [nature]
+categories: [nature, myth]
 author: ross
 ---
 
