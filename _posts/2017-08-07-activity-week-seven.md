@@ -1,7 +1,7 @@
 ---
 date: 2017-08-06 00:25:46+00:00
 layout: post
-author: ross
+author: course
 categories: [activity]
 title: Creative Activity for Week Seven
 ---

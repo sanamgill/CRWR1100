@@ -1,7 +1,7 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
-crwr1200:
+course:
   name:              Creative Writing 1200
   email:             ross@rosslaird.com
 
@@ -55,7 +55,7 @@ ross:
     [Ross Laird](https://www.rosslaird.com), Ph.D. is a best-selling author, acclaimed educator,
     and award-winning scholar. He is a sought-after speaker on themes of
     personal and professional development, mentorship, leadership, addictions,
-    mental health, and creativity. Ross has worked with hundreds of organizations and 
+    mental health, and creativity. Ross has worked with hundreds of organizations and
     thousands of individual clients and students, from Vancouver's Downtown Eastside
     to corporate boardrooms and university classrooms across North America.
   picture:
