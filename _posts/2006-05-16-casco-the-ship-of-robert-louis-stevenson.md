@@ -3,6 +3,7 @@ date: 2006-05-16 16:40:23+00:00
 layout: post
 categories: [myth, creativity]
 title: Casco, The Ship of Robert Louis Stevenson
+author: ross
 ---
 They were led, one at a time, from the smoky dark of the hold and up the narrow companionway. Each man was flanked by a crew-member who spoke in clipped and rushing tones. The ship was quiet, the sails slack.The men in the hold waited, unsure of what was happening. Dread spread among them. They did not speak the language of the crew, though they understood perfectly the gestures of the guns.
 

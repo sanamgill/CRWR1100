@@ -3,6 +3,7 @@ date: 2005-09-11 16:35:29+00:00
 layout: post
 categories: [myth, creativity]
 title: The Jasper Queen
+author: ross
 ---
 
 The indomitable spirit cannot be diminished -- by negligence, by war, by time spun farther than the grasp of memory. This occurs to me on September ninth, in the Egyptian gallery of New York's Metropolitan Museum of Art, as I stand before the only remaining fragment of an ancient sculpture. The body has vanished, and most of the head is gone. What remains is a small artefact, about six inches high: an elegant mouth -- smiling, in repose -- and the beginning curve of a face, carved from yellow jasper. Between ragged fractures where the stone is sheared off -- one just above the top lip, the other below the chin -- the mouth has been sculpted with astonishing precision by the craft of a culture now strewn across the debris field of history. This statue, all that's left of the queen of a remote age, was fashioned in devotion and shattered by war, almost twenty-five centuries ago. And still, she smiles.

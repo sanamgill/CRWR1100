@@ -3,6 +3,7 @@ date: 2007-05-11 16:22:32+00:00
 layout: post
 categories: [nature]
 title: Rogue Waves, Wanderers of the Sea
+author: ross
 ---
 In February 1933, on its way from San Diego to Manila, the US Navy ship Ramapo was caught in the teeth of a relentless storm. The wind had slowly gathered momentum across thousands of nautical miles of the open Pacific, piling up monstrous swells: twenty feet, then thirty, then higher. On the seventh day of the storm, with the east wind howling at sixty knots, the swells grew to an average of fifty feet. Every fifteen seconds a new behemoth — large as a five-story office building — shouldered its way into the stern.
 

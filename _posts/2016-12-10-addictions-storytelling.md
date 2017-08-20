@@ -3,6 +3,7 @@ layout: post
 title: 'Addictions and Storytelling'
 tags: [wellness]
 categories: [addictions]
+author: ross
 ---
 
 Stories are maps, repositories of collected wisdom, ciphers and guides for making sense of the human journey. Whether archaic, prosaic, or postmodern, stories illuminate the paths undertaken by all those who seek resolution and healing. And stories are all the same, at heart: beneath the guises of religion, behind the consistent attempts to make them fresh and new, beyond the politics and tribalisms that run through the tales of every generation. Stories tell one thing: how to discover hidden illumination.
