@@ -1,12 +1,12 @@
 ---
-date: 2017-08-06 00:25:46+00:00
+date: 2017-08-07 00:25:46+00:00
 layout: post
 author: ross
 categories: [activity]
 title: Creative Activity for Week Six
 ---
 
-Find a partner to work with. It can be someone from the class or not; it's up to you. But either way, your partner should be someone who will not act like a jackass, or ridicule you, or do any number of unhelpful things to mess you up. Ideally, you are looking for someone who will take this seriously, help you explore it deeply, and support you in creating an authentically interesting product (just like in previous weeks). Choosing the right partner is the most important factor in determining how this turns out. (This goes for life as well.) So, choose wisely. 
+Find a partner to work with. It can be someone from the class or not; it's up to you. But either way, your partner should be someone who will not act like a jackass, or ridicule you, or do any number of unhelpful things to mess you up. Ideally, you are looking for someone who will take this seriously, help you explore it deeply, and support you in creating an authentically interesting product (just like in previous weeks). Choosing the right partner is the most important factor in determining how this turns out. (This goes for life as well.) So, choose wisely.
 
 ### Getting Started
 
@@ -15,4 +15,3 @@ Ask your partner to take some time to consider carefully, then describe to you t
 Now choose one of the images and write a narrative about it. For an example of how you might approach this, please read [Windbreaker](/education/creativity/2017/08/06/windbreaker/), excerpted from my upcoming book on addictions. It's a short narrative about a single image of a man standing on a street corner.
 
 Add your narrative to your draft on GitHub. Commit the changes.
-

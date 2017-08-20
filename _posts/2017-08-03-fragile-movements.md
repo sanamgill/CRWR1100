@@ -1,5 +1,5 @@
 ---
-date: 2017-08-03 00:25:46+00:00
+date: 2017-08-10 00:25:46+00:00
 layout: post
 author: ross
 categories: [creativity]
