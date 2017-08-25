@@ -12,6 +12,6 @@ Find a partner to work with. It can be someone from the class or not; it's up to
 
 Ask your partner to describe two smells and two tastes (with positive associations, ideally). Incorporating at least two of these smells and tastes (and other images of your own choosing), write a short narrative about anything you like.
 
-For an example of one approach to smells and tastes, read [Gasoline](/addictions/2017/08/07/gasoline/), excerpted from my book Labyrinth.
+For an example of one approach to smells and tastes, read [Gasoline](/addictions/2017/08/06/gasoline/), excerpted from my book Labyrinth.
 
 Add your narrative to your draft on GitHub. Commit the changes.
