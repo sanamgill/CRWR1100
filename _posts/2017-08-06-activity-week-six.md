@@ -12,6 +12,6 @@ Find a partner to work with. It can be someone from the class or not; it's up to
 
 Ask your partner to take some time to consider carefully, then describe to you three images. They might be street scenes, family moments, objects of art, scenes from nature, or whatever. The possibilities here are very broad, and feel free to follow them wherever they lead.
 
-Now choose one of the images and write a narrative about it. For an example of how you might approach this, please read [Windbreaker](/education/creativity/2017/08/06/windbreaker/), excerpted from my upcoming book on addictions. It's a short narrative about a single image of a man standing on a street corner.
+Now choose one of the images and write a narrative about it. For an example of how you might approach this, please read [Windbreaker](/myth/2017/08/06/windbreaker/), excerpted from my upcoming book on addictions. It's a short narrative about a single image of a man standing on a street corner.
 
 Add your narrative to your draft on GitHub. Commit the changes.
