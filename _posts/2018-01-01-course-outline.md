@@ -240,8 +240,8 @@ Your notes on the creative exercises are worth 25 points. For these notes, you d
 Here is the total picture for grades:
 
 | First Draft | Second Draft | Commits to Drafts | Exercise Notes |
-| ----------- | ------------ | ----------- | ------- |
-| 25  | 25 | 25    | 25 |
+| ----------- | ------------ | ----------------- | -------------- |
+| 25          | 25           | 25                | 25             |
 
 ## The Composition Process
 
@@ -249,7 +249,7 @@ During the first week of the semester you will receive a link, via email, to a G
 
 ### Getting started
 
-Click the link you received, via email, to your personal repository. Login to GitHub (if you haven't already) and open the repository. You will see a file called `draft.md`, and a second file called `notes.md`. These are the files where you will write the drafts of your composition and your notes for the creative exercises. (You will also see a README.md file, which contains a general description and a link to the course website). Click on a file name to open it. You will see some sample text. Click the pencil icon above and to the right (beside the trashcan) to edit the file. (You can ignore the buttons that say Raw, Blame, and History.)
+Click the link you received, via email, to your personal repository. Login to GitHub (if you haven't already) and open the repository. You will see a file called `draft.md`, and a second file called `notes.md`. These are the files where you will write the drafts of your composition and your notes for the creative exercises. (You will also see a README.md file, which contains a brief description). Click on a file name to open it. You will see some sample text. Click the pencil icon above and to the right (beside the trashcan) to edit the file. (You can ignore the buttons that say Raw, Blame, and History.)
 
 Edit your text using Markdown format (see [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) as well as below). You can toggle between editing and previewing using the tabs at the top of the editing box (the `Preview changes` tab has an eye icon). When you have written a few sentences (or even less), scroll to the bottom of the screen where a green button says `Commit changes`. Don't click that button yet. First, add a comment in the small box; something like "I wrote a paragraph about cookies". Suggested text is provided in this box; feel free to use that.
 
@@ -365,9 +365,9 @@ Fail: the author fails to understand the nature of creative writing or has not t
 
 # Due Dates
 
-| First Draft | Second Draft | Notes | Commits |
-| ----------- | ------------ | ----------- | ------- |
-| January 31  | February 28  | March 31    | Ongoing |
+| First Draft | Second Draft | Notes    | Commits |
+| ----------- | ------------ | -------- | ------- |
+| January 31  | February 28  | March 31 | Ongoing |
 
 ## How to Submit a Draft?
 
