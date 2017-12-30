@@ -5,7 +5,7 @@ menu: true
 order: 2
 categories: [creativity]
 title: Course Outline
-author: ross
+author: course
 ---
 This course is focused on cultivating creativity, wonder, and engagement with the traditions of reading and writing. The core theme of the course involves the development of self-knowledge through creativity. Every creative tradition and cultural mythology affirms the fundamental role that creativity plays in personal development. The path of self-knowledge is the most rewarding journey we can undertake, yet it is also the hardest. We are challenged by our family histories, by our cultures, by our own traumas and vulnerabilities. And yet we must persist, as all the old tales say, so that we discover the essential unity between ourselves and the cosmos. That's what creativity has always been about. At its heart, creativity is the path of illumination. No matter how much we apply modern attitudes to the creative process, that process inexorably guides us inward, toward a confrontation with our own consciousness and with the vast story of the universe. And that journey does not end: it simply tracks every more deeply into vast and unfathomable mysteries.
 
