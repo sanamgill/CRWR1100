@@ -7,7 +7,7 @@ categories: [creativity]
 title: Course Outline
 author: ross
 ---
-This course is focused on cultivating creativity, wonder, and engagement with the traditions of reading and writing. The core theme of the course involves the development of self-knowledge through creativity. Every creative tradition and cultural mythology affirms the fundamental role that creativity plays in personal devcelopment. The path of self-knowledge is the most rewarding journey we can undertake, yet it is also the hardest. We are challenged by our family histories, by our cultures, by our own traumas and vulnerabilities. And yet we must persist, as all the old tales say, so that we discover the essential unity between ourselves and the cosmos. That's what creativity has always been about. At its heart, creativity is the path of illumination. No matter how much we apply modern attitudes to the creative process, that process inexorably guides us inward, toward a confrontation with our own consciousness and with the vast story of the universe. And that journey does not end: it simply tracks every more deeply into vast and unfathomable mysteries.
+This course is focused on cultivating creativity, wonder, and engagement with the traditions of reading and writing. The core theme of the course involves the development of self-knowledge through creativity. Every creative tradition and cultural mythology affirms the fundamental role that creativity plays in personal development. The path of self-knowledge is the most rewarding journey we can undertake, yet it is also the hardest. We are challenged by our family histories, by our cultures, by our own traumas and vulnerabilities. And yet we must persist, as all the old tales say, so that we discover the essential unity between ourselves and the cosmos. That's what creativity has always been about. At its heart, creativity is the path of illumination. No matter how much we apply modern attitudes to the creative process, that process inexorably guides us inward, toward a confrontation with our own consciousness and with the vast story of the universe. And that journey does not end: it simply tracks every more deeply into vast and unfathomable mysteries.
 
 And so, whatever point learners find themselves in their own odysseys of self-discovery, this course encourages them to do some self-examination. All the great tales arise from the journey inward, and our own versions of that journey will be the source of our deepest and best creativity.
 
@@ -211,9 +211,9 @@ You only need to choose one topic, and you should choose it within the first two
 * Movies, Manga, comics, or popular culture in general
 * Trauma (your own personal trauma)
 
-Any subject that is challenging for you to talk about openly (such as trauma) is a subject you should not write about. On the other hand, powerful personal experiences are often the best topics to write about, so please use your judgement in deciding how best to be expressive while at the same being emotionally safe. If you're not sure, ask.
+Any subject that is challenging for you to talk about openly (such as trauma) is a subject you should not write about. On the other hand, powerful personal experiences are often the best topics to write about, so please use your judgment in deciding how best to be expressive while at the same being emotionally safe. If you're not sure, ask.
 
-If you want highly specific exmaples of the kinds of subjects you might write about, read the main course text, [Grain of Truth](https://www.rosslaird.com/grain-of-truth/), as well as the [posts on the course website](https://crwr1100.netlify.com/posts/) (you're doing that anyway, right?).
+If you want highly specific examples of the kinds of subjects you might write about, read the main course text, [Grain of Truth](https://www.rosslaird.com/grain-of-truth/), as well as the [posts on the course website](https://crwr1100.netlify.com/posts/) (you're doing that anyway, right?).
 
 ## Process Exercises
 
@@ -249,7 +249,7 @@ During the first week of the semester you will receive a link, via email, to a G
 
 ### Getting started
 
-Click the link you received, via email, to your personal repository. Login to GitHub (if you haven't already) and open the repository. You will see a file called `draft.md`, and a scond file called `notes.md`. These are the files where you will write the drafts of your composition and your notes for the creative exercises. Click on a file name to open it. You will see some sample text. Click the pencil icon above and to the right (beside the trashcan) to edit the file. (You can ignore the buttons that say Raw, Blame, and History.)
+Click the link you received, via email, to your personal repository. Login to GitHub (if you haven't already) and open the repository. You will see a file called `draft.md`, and a second file called `notes.md`. These are the files where you will write the drafts of your composition and your notes for the creative exercises. (You will also see a README.md file, which contains a general description and a link to the course website). Click on a file name to open it. You will see some sample text. Click the pencil icon above and to the right (beside the trashcan) to edit the file. (You can ignore the buttons that say Raw, Blame, and History.)
 
 Edit your text using Markdown format (see [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) as well as below). You can toggle between editing and previewing using the tabs at the top of the editing box (the `Preview changes` tab has an eye icon). When you have written a few sentences (or even less), scroll to the bottom of the screen where a green button says `Commit changes`. Don't click that button yet. First, add a comment in the small box; something like "I wrote a paragraph about cookies". Suggested text is provided in this box; feel free to use that.
 
@@ -314,7 +314,7 @@ It helps. The more often you commit (say, after every paragraph or so), the easi
 
 ### Adding Files
 
-Feel free to add new files to the repository (for example, to create an outline or to collect notes). Don't create new drafts; use the `draft.md` file for all of your composition and editing. But if your creative impulse is to use more files to keep track of what you are doing, by all means do that (give new files an `.md` extension; that way, GitHub will identify them as Markdown files).
+Feel free to add new files to the repository (for example, to create an outline or to collect further notes). Don't create new drafts; use the `draft.md` file for all of your composition and editing. But if your creative impulse is to use more files to keep track of what you are doing, by all means do that (give new files an `.md` extension; that way, GitHub will identify them as Markdown files).
 
 ### Submitting Your Document for Review
 
@@ -337,58 +337,31 @@ Projects for this course are focused on authentic and creative inquiry. Accordin
 * Commitment to improvement in writing and creative work.
 * Ability to be open and responsive to appropriate feedback.
 
-The above criteria will be used to assess your enagement with the creative exercises (as reflected in your notes). In addition, compositional criteria will also be used to evaluate your composition (as shown in your `draft.md` document), as follows:
+The above criteria will be used to assess your engagement with the creative exercises (as reflected in your notes). In addition, compositional criteria will be used to evaluate your composition (as shown in your `draft.md` document), as follows (in percentages):
 
 ##### 80 − 100
-Excellent: the use of language is pleasing and vigorous. The writing
-invites reading; the work is well-crafted and grammatically
-flawless. The author is perceptive.
+Excellent: the use of language is pleasing and vigorous. The writing invites reading; the work is well-crafted and grammatically polished. The author is perceptive.
 
 ##### 76 − 79
-Very good: the use of language is generally correct. There may be a
-need for further editing. This could be in the presentation of the
-work (style, voice, characterisation, plot, point of view), or in the
-language (diction, grammar, usage, spelling, punctuation) — but the
-writing is involving.
+Very good: the use of language is generally correct. There may be a need for further editing. This could be in the presentation of the work (style, voice, characterization, plot, point of view), or in the language (diction, grammar, usage, spelling, punctuation) — but the writing is involving.
 
 ##### 72 − 75
-Good: the author has created a composition with substantial content
-and without any serious errors in tone or narration. Problems with
-creative shaping and delivery may occur, and there may be a further
-need for learning the mechanics of language use, but generally, the
-problems do not interfere with the reader’s appreciation of the work.
+Good: the author has created a composition with substantial content and without any serious errors in tone or narration. Problems with creative shaping and delivery may occur, and there may be a further need for learning the mechanics of language use, but generally, the problems do not interfere with the reader’s appreciation of the work.
 
 ##### 68 − 71
-Compositions with repeated errors in grammar, usage or punctuation
-will result in a grade of no higher than 71 regardless of the
-proficiency and imagination demonstrated in the creative aspects of
-the work. On the other hand, compositions with no problems in grammar,
-usage or punctuation may not receive a grade higher than 71 if they
-fail to demonstrate an understanding of the challenges (of style or
-voice, for example) involved in writing in the genre.
+Compositions with repeated errors in grammar, usage or punctuation will result in a grade of no higher than 71 regardless of the proficiency and imagination demonstrated in the creative aspects of the work. On the other hand, compositions with no problems in grammar, usage or punctuation may not receive a grade higher than 71 if they fail to demonstrate an understanding of the challenges (of style or voice, for example) involved in writing in the genre.
 
 ##### 64 − 67
-Satisfactory: this writing shows constrained use of language (either
-in the creative shaping and delivery of content or in repeated errors
-in grammar punctuation, diction and usage), and the treatment of the
-material has not resulted in sufficient depth. The writing is
-potentially interesting, and a revision may improve the composition.
+Satisfactory: this writing shows constrained use of language (either in the creative shaping and delivery of content or in repeated errors in grammar punctuation, diction and usage), and the treatment of the material has not resulted in sufficient depth. The writing is potentially interesting, and a revision may improve the composition.
 
 ##### 60 − 63
-This meets the minimum criteria of the assignment without in any way
-exceeding it. There are repeated errors such as spelling mistakes,
-sloppiness or a lack of depth to the writing.
+This meets the minimum criteria of the assignment without in any way exceeding it. There are repeated errors such as spelling mistakes, sloppiness or a lack of depth to the writing.
 
 ##### 56 − 59
-Below average: the writing is difficult to read because of
-inappropriate delivery or repeated grammatical errors or
-both. Furthermore, the idea may not be appropriate for the form. This
-grade does not permit students to pursue another course for which the
-graded course was a prerequisite.
+Below average: the writing is difficult to read because of inappropriate delivery or repeated grammatical errors or both. Furthermore, the idea may not be appropriate for the form. This grade does not permit students to pursue another course for which the graded course was a prerequisite.
 
 ##### 50 − 55
-Fail: the author fails to understand the nature of creative writing or
-has not tried.
+Fail: the author fails to understand the nature of creative writing or has not tried.
 
 # Due Dates
 
