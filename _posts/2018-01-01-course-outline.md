@@ -7,11 +7,7 @@ categories: [creativity]
 title: Course Outline
 author: ross
 ---
-
-This course provides an opportunity for learners to deepen their creative process, to work on their inner development, and improve their writing. Learners are encouraged to take appropriate risks, to challenge themselves creatively -- especially when doing so provokes discomfort -- and to be open to personal and interpersonal process. The course involves many experiential activities and many moments of possible discovery.
-
-The core focus of the course is on the development of self-knowledge, which is
-the ultimate quest. Every creative tradition and cultural mythology affirms this fundamental truth. The path of self-knowledge is the most rewarding journey we can undertake, yet it is also the hardest. We are challenged by our family histories, by our cultures, by our own traumas and vulnerabilities. And yet we must persist, as all the old tales say, so that we discover the essential unity between ourselves and the cosmos. That's what creativity has always been about. At its heart, creativity is the path of illumination. No matter how much we apply modern attitudes to the creative process, that process inexorably guides us inward, toward a confrontation with our own consciousness and with the vast story of the universe. And that journey does not end: it simply tracks every more deeply into vast and unfathomable mysteries.
+This course is focused on cultivating creativity, wonder, and engagement with the traditions of reading and writing. The core theme of the course involves the development of self-knowledge through creativity. Every creative tradition and cultural mythology affirms the fundamental role that creativity plays in personal devcelopment. The path of self-knowledge is the most rewarding journey we can undertake, yet it is also the hardest. We are challenged by our family histories, by our cultures, by our own traumas and vulnerabilities. And yet we must persist, as all the old tales say, so that we discover the essential unity between ourselves and the cosmos. That's what creativity has always been about. At its heart, creativity is the path of illumination. No matter how much we apply modern attitudes to the creative process, that process inexorably guides us inward, toward a confrontation with our own consciousness and with the vast story of the universe. And that journey does not end: it simply tracks every more deeply into vast and unfathomable mysteries.
 
 And so, whatever point learners find themselves in their own odysseys of self-discovery, this course encourages them to do some self-examination. All the great tales arise from the journey inward, and our own versions of that journey will be the source of our deepest and best creativity.
 
@@ -19,7 +15,7 @@ And so, whatever point learners find themselves in their own odysseys of self-di
 
 Before going any farther, make sure you have a GitHub account. If you don't have one (or if you don't know), go [here](https://github.com/join). GitHub is free to join. Once you have signed up, come back to this page (you bookmarked it, right?) and continue reading below.
 
-All of the course materials are on this page. Please read them. If you get stuck, open an issue using the `issues` tab in GitHub. (See below for instructions.) Also, please review the following online guides to GitHub:
+All of the course materials are on this page. Please read them. If you get stuck, open an issue using the `issues` tab in GitHub (see below for instructions). Also, please review the following online guides to GitHub:
 
 [Writing on GitHub](https://help.github.com/articles/about-writing-and-formatting-on-github/)
 
@@ -29,7 +25,7 @@ All of the course materials are on this page. Please read them. If you get stuck
 
 #### Skill Development
 
-Perhaps it’s most helpful to come at creativity in terms of a skill set. Thinking and acting creatively is really a matter of looking at the process of learning. Instead of focusing on the “content” we might ask questions about how we identify, interpret, create, and communicate this content. These are process questions. Below are some examples of the kinds of considerations we will explore during our process.
+Perhaps it’s most helpful to come at creativity and creative writing in terms of a skill set. Thinking and acting creatively is really a matter of looking at the process of learning. Instead of focusing on the “content” we might ask questions about how we identify, interpret, create, and communicate this content. These are process questions. Below are some examples of the kinds of considerations we will explore during our process.
 
 ##### Creating a “Good” Question
 
@@ -49,17 +45,13 @@ Language is expressed verbally and non-verbally in a particular relational conte
 
 ##### Working in a Group
 
-Groups offer invaluable opportunities for personal development and routinely transcend the efforts of any one individual. The following elements are some of the important capabilities required for healthy
-group process:
+Groups offer invaluable opportunities for personal development and routinely transcend the efforts of any one individual. The following elements are some of the important capabilities required for healthy group process:
 
 * building trust and a culture of collaboration
 * attending to individual needs and the needs of the group
 * sharing responsibility
 * giving and receiving feedback
 * embracing and resolving minor conflicts
-
-Much of our class time will be spent in small and large groups
-exploring and developing these skills.
 
 ##### Following Through on a Process
 
@@ -73,38 +65,40 @@ Growing personally and professionally is a process that has no end point. Althou
 
 Self-assessment involves asking questions such about how we wish to grow. What is involved in growing in a given area? What opportunities can we find and/or create to grow? How do we take responsibility for working on ourselves? How does the feedback from others and the results of our attempts to develop tell us how we are doing? How do we decide what to do with the feedback we receive from others?
 
-# How to Succeed in this Class
+# How to Succeed in this Course (and in life!)
 
-If you wish to achieve a good grade, please do the following:
+If you wish to succeed in this course (and achieve a good grade), please do the following:
 
-* Show up for class – every class. This course depends on student
-  engagement.
-* Contribute consistently to the creative community and respond to the
-  contributions of others.
+* Do all of the course activities listed on the [course website](https://crwr1100.netlify.com/category/activities/) and do them with enthusiasm. Do one activity each week for nine weeks.
+* Do all of the readings.
+* Contribute consistently to your repository.
 * Take the initiative to plan and develop your composition. This
   course is (very likely) more fluid and organic than you are used
   to. Your ability to manage your time, commitment, and energy is
   crucial.
-* Speak up in every class.
 * Don’t look for the right answer to a question or challenge. Instead,
   find the answer that is meaningful to you.
 * Ask for help if you need it. Open an issue if you need help (use the `Issues` tab).
-* Commit to your project in a substantial way. Good projects take
+* Commit to your composition in a substantial way. Good projects take
   time. Rushed projects are obviously rushed.
 
 Finally, please be attentive to the [KPU policies](https://www.kpu.ca/policies) on academic honesty and plagiarism.
 
-# Attendance and Participation
+# Activities and Engagement
 
-The expectation is that you will attend all sessions and involve yourself in the class process. Your willingness to engage creatively with the learning process, to take appropriate personal risks, and to participate in group activities are all central to your involvement in this class. Because developing a style of authentic creative inquiry is very much a process of blending your own personal awareness with skills and practical techniques, your own emotional involvement in the class is as important as your academic knowledge of the material.
+Do all of the creative activities listed on the [course website](https://crwr1100.netlify.com/category/activities/). Do one activity each week for nine weeks. Instructions are included for each activity. If you get stuck, ask for help.
 
-It's easy to identify those who possess exemplary interpersonal and creative skills. They are relaxed, open, responsive, and kind. Often they exhibit skills that we tend to assign to the social sphere: personal warmth, consideration of others, hesitancy to judge, sensitivity to emotions. In our class we focus on these interpersonal factors as a foundation for our experiences with one another. And we itemize them as features along the continuum of self-awareness:
+Then, after you have completed nine weeks of creative exercises, writing, and readings, you will have two weeks to complete your draft composition. You may use these two weeks to work on your own or in consultation with your instructor (using the communication methods outlined below).
+
+This is a self-directed course, which makes your willingness to engage creatively with the learning process all the more important. Because developing a style of authentic creative inquiry is very much a process of blending your own personal awareness with skills and practical techniques, your own emotional involvement in the course is as important as your academic knowledge of the material.
+
+It's easy to identify those who possess exemplary interpersonal and creative skills. They are relaxed, open, responsive, and kind. Often they exhibit skills that we tend to assign to the social sphere: personal warmth, consideration of others, hesitancy to judge, sensitivity to emotions. In our course we focus on these interpersonal factors as a foundation for our experiences with one another. And we itemize them as features along the continuum of self-awareness:
 
 * Commitment to the development of self-awareness.
 * Openness to interpersonal process.
 * Ability to participate in appropriate self-disclosure.
 * Consideration of and responsiveness to others.
-* Commitment to enhancing the interpersonal experience of everyone in the class.
+* Commitment to enhancing the interpersonal experience of everyone in the course.
 * Willingness to examine personal values, beliefs, and judgments.
 * Ability to take personal responsibility for learning.
 * Willingness to deal with conflicts appropriately if and when they arise.
@@ -125,55 +119,67 @@ These questions, and many others, require the capacity for self-reflection and s
 
 # Asking for Help
 
+People are different. Some like to learn on their own, others prefer direct and ongoing support, and there is of course a wide range in between. You are free to approach this course in the manner that suits you best. If I don't hear from you, I will assume that you are working happily away, reading, composing, and getting things done. If you ask for help or feddback (see below for how to do that) I will respond as soon as I can.  
+
 ## GitHub Issues
 
-Sometimes you might need to ask questions outside of class (for example, when you are working on your document at home). There are two ways to ask for help: you can create an `issue` (see below) or you can [chat on gitter](https://gitter.im/creative-writing-kpu/Lobby#). The simplest option is to create an issue. If a more organic, conversational approach is called for, your instructor will invite you to a gitter conversation.
+Sometimes you might need to ask a question or request feedback. The best way to do that is to create an `issue` on GitHub (please don't send questions via regular email). To create an issue, access the [GitHub website](https://www.github.com), and navigate to your repository. Select the `Issues` tab, then select `New Issue`. The new issue screen will provide a box for `title` and for `description`.
 
-### Creating an Issue
+* Title: should concisely summarize your question, (for example, "How could I create better atmosphere in my text"?). Please do not ask questions about subjects already covered here in the course outline or which are easily searchable online. Your title should _not_ have a non-descriptive title such as "Question".
 
-To create an issue, access the [GitHub website](https://www.github.com), and navigate to your repository. Select the `Issues` tab, then select `New Issue`. The new issue screen will provide a box for `title` and for `description`. 
+* Description: this should describe the issue you are facing, with enough information for me to provide a solution. GitHub supports Markdown, which allows quick text formatting in issues. (See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).)  You can also add a label to your issue if you want, but this is entirely optional.
 
-* Title: should concisely summarize your question, (for example, "How could I create better atmosphere in my text"?). Please do not ask questions about subjects already covered in the course outline or which are easily searchable online. Your title should _not_ have a non-descriptive title such as "Question".
+You will need to _assign_ this issue to me (Ross), and I will get back to you as soon as possible. Under the `Assignees` tab to the right of the issue description, select the gear button; GitHub will suggest Ross as your assignee. Click Ross' username. If Ross' username is not immediately visible, just type "rosslaird" (without the quotes) into the Assignee box. You may aslo [mention](https://github.com/blog/821-mention-somebody-they-re-notified) Ross in the context of any issue, and I will be notified.
 
-* Description: this should describe the issue you are facing, with enough information for your instructor to provide a solution. GitHub supports Markdown, which allows quick text formatting in issues. (See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).)  You can also add a label to your issue if you want, but this is entirely optional.
+### Closing an Issue
 
-You will need to _assign_ this issue to your instructor (Ross), who will get back to you as soon as possible. Under the `Assignees` tab to the right of the issue description, select the gear button; GitHub will suggest Ross as your assignee. Click Ross' username. If Ross' username is not immediately visible, just type "rosslaird" (without the quotes) into the Assignee box. You may aslo [mention](https://github.com/blog/821-mention-somebody-they-re-notified) Ross in the context of any issue, and he will be notified.
-
-### Closing an issue
-
-Ross will respond as soon as possible, either by requesting more information or providing an answer to your question. Sometimes, issues will not have a straightforward answer and will lead to _discussion_. This is an important part of the online development process and a vital tool for creative people working online. Once your question has been answered to your satisfaction, you can choose to close the issue, indicating it has been successfully resolved, by selecting the `close` button in the comment box.
+I will respond either by requesting more information or providing an answer to your question. Sometimes, issues will not have a straightforward answer and will lead to _discussion_. This is an important part of the online development process and a vital tool for creative people working online. Once your question has been answered to your satisfaction, you can choose to close the issue, indicating it has been successfully resolved, by selecting the `close` button in the comment box.
 
 ## Assignment Feedback
 
-You will need to decide whether you want written feedback on your assignments. Feedback can be very helpful, but not everyone wants (or reads, or responds to) feedback.  So, if you want written feedback, create an `issue` (using the instructions above) and ask for feedback. You may ask for feedback at any time during the course. If you would like specific feedback at a particular time (say, before or after a draft is due), open an issue with your questions at that time. If and when you ask for feedback, please be specific about the kind of feedback that would be most useful to you.
+You will need to decide whether you want written feedback on your assignments. Feedback can be very helpful, but not everyone wants (or reads, or responds to) feedback.  So, if you want written feedback, create an `issue` (using the instructions above) and ask for feedback. You may ask for feedback at any time during the course and as often as you like. If you would like specific feedback at a particular time (say, before or after a draft is due), open an issue with your questions at that time. If and when you ask for feedback, please be specific about the kind of feedback that would be most useful to you.
 
-If you do not ask for written feedback, you will still receive a grade (of course) but you will _not_ receive any written feedback. 
+If you do not ask for written feedback, you will still receive a grade (of course) but you will _not_ receive any written feedback.
 
 # Readings and Resources
 
-Please read Stephen King's book _On Writing_ and Robert Pirsig's _Zen and the Art of Motorcycle Maintenance_. Reading is a core task for the writer. But, more generally, try to use the hacker's approach in this class:
+The act of reading is one of the most important tasks in learning the craft of writing. So, please read in this course. At a minimum, read [Grain of Truth](https://www.rosslaird.com/grain-of-truth/) (by your instructor), _The Little Book of Talent_ (by Daniel Coyle), and _How to Fly a Horse_ (by Kevin Ashton).
 
-> You… have to develop a kind of faith in your own learning capacity — 
-> a belief that even though you may not know all of what you need to solve a problem, 
-> if you tackle just a piece of it and learn from that, you’ll learn enough 
-> to solve the next piece — and so on, until you’re done.
-> --- <cite>Raymond, E. S. (2001). How to become a hacker.</cite>
+Also read all of the [posts on the course website](https://crwr1100.netlify.com/posts/).
 
-Please try to learn as much as you can about creativity, writing, writing online. Here are a few suggestions for resources to explore:
+Also read as many of the following books as you can (in the order in which they are presented below).
 
-[Starting to Write](https://crwr1200.netlify.com/creativity/writing/2017/08/12/starting-to-write/)
+* King, Stephen. *On Writing: A Memoir of the Craft*. New York: Scribner, 2000.
 
-[Steps to Better Writing](https://crwr1200.netlify.com/creativity/writing/2017/08/15/steps-to-better-writing/)
+* Pirsig, Robert. *Zen and the Art of Motorcycle Maintenance*. New York: Harper, 2006.
 
-[Tips on Tightening](https://crwr1200.netlify.com/creativity/writing/2017/08/15/tips-on-tightening/)
+* Levitin, Daniel. *The Organized Mind*. New York: Dutton, 2014.
 
-[Sentence Composition Checklist](https://crwr1200.netlify.com/creativity/writing/2017/08/15/sentence-checklist/)
+* Dick, Philip K. *The Man in the High Castle*. New York: Mariner, 2012.
 
-[On Being Focused](https://crwr1200.netlify.com/creativity/writing/2017/07/31/blinking-cursor-blank-page/)
+* Goldberg, Natalie. *Writing Down the Bones*. Boulder: Shambhala, 2005.
 
-[The Art and Craft of the Personal Essay](https://crwr1200.netlify.com/creativity/writing/2017/07/31/art-and-craft-of-the-personal-essay/)
+## Resources to improve your writing
 
-[Using Jekyll](https://jekyllrb.com/docs/home/) (Our [live site](http://crwr1200.netlify.com/) is created with Jekyll)
+Please read these materials. They contain most of what you need to know to improve your writing skills.
+
+[Starting to Write](https://crwr1100.netlify.com/creativity/writing/2017/08/12/starting-to-write/)
+
+[Steps to Better Writing](https://crwr1100.netlify.com/creativity/writing/2017/08/15/steps-to-better-writing/)
+
+[Tips on Tightening](https://crwr1100.netlify.com/creativity/writing/2017/08/15/tips-on-tightening/)
+
+[Sentence Composition Checklist](https://crwr1100.netlify.com/creativity/writing/2017/08/15/sentence-checklist/)
+
+[On Being Focused](https://crwr1100.netlify.com/creativity/writing/2017/07/31/blinking-cursor-blank-page/)
+
+[The Art and Craft of the Personal Essay](https://crwr1100.netlify.com/creativity/writing/2017/07/31/art-and-craft-of-the-personal-essay/)
+
+## Other Interesting Resources
+
+These resources are focused on using GitHub and related tools (this list is provided for those with an interest in geekery).
+
+[Using Jekyll](https://jekyllrb.com/docs/home/) (Our [live site](http://crwr1100.netlify.com/) is created with Jekyll)
 
 [Git for Writers](https://medium.com/electric-ship/git-for-writers-write-fiction-like-a-good-programmer-ea6f0309a69a)
 
@@ -185,33 +191,65 @@ Please try to learn as much as you can about creativity, writing, writing online
 
 [Learning More about Git and GitHub](https://guides.github.com/)
 
-### Keep Searching!
+# Your Assignments
 
-There are endless online resources for writing (and writing online). Please find some, explore what you can learn, and integrate that learning into your project.
+## Composition
 
-# Your Assignment
+This is a writing course. Accordingly, you will write a composition. The minimum length of your (final) composition should be in the neighborhood of 2,000 words. You will create this composition in several stages. You may write more than 2,000 words, if you like. There is no maximum.
 
-This is a writing course. Accordingly, you will write a composition. The minimum length of your (final) composition should be in the neighborhood of 3,000 words. You will create this composition in several stages. You may write more than 3,000 words, if you like. There is no maximum.
+Your composition should be a nonfiction narrative on any topic you choose (your readings will be from many genres, but your writing will be nonfiction). The goal is to choose a subject about which you are passionate and to write in a form and style that best further your creativity and your passions. This is the hard part: deciding what to write about. You must decide; I won't assign a topic for you. The first step in authentic creativity involves getting a bit uncomfortable, and this kind of freedom in an academic setting is usually uncomfortable. Stick with the discomfort until something happens. To ease your anxiety about topics, here is a short list of possibilities:
 
-Your composition should be a nonfiction narrative on any topic you choose. The goal is to choose a subject about which you are passionate and to write in a form and style that best further your creativity and your passions. The compositions will be discussed in detail in class.
+* A narrative that describes an experience that was meaningful to you (for example, a travel or childhood experience)
+* A narrative about an aspect of your inner life (for example, your relationship to your own creativity, or your struggle with procrastination)
+* A narrative about a particular subject of deep interest to you (for example, the mythologies of Egypt, or your passion for cooking)
+* A collection of poems on a specific theme (for example, nature)
 
-This is the hard part: deciding what to write about. You must decide; your instructor won't assign a topic for you. The first step in authentic creativity involves getting a bit uncomfortable, and this kind of freedom in an academic setting is usually uncomfortable. Stick with the discomfort until something happens. We will discuss possible subjects in class, but you should begin this process with some self-reflection and rumination.
+You only need to choose one topic, and you should choose it within the first two weeks of the course. Then you start writing about it (see below for how and where to do that). As a companion list to the one above, here is a short list of topics that I do not wish you to write about:
 
-## Grades
+* Video games
+* Zombies
+* Movies, Manga, comics, or popular culture in general
+* Trauma (your own personal trauma)
 
-The composition assignment will be completed in three stages (three drafts of the same document). You will simply continue to update your document with new and changed text, saving your changes using the GitHub `commit` mechanism (see below). As you write, you will edit your existing text as well as add new text (this is the essence of the writing process). Each commit is worth one point -- to a maximum of 25 points. However, in order to earn these 25 points, _you must make at least half as many deletions as additions_. In other words, you need to do some editing in addition to simply writing. You can see these numbers (deletions and additions) on GitHub in various places (such as the Contributors graph, under the Insights tab).
+Any subject that is challenging for you to talk about openly (such as trauma) is a subject you should not write about. On the other hand, powerful personal experiences are often the best topics to write about, so please use your judgement in deciding how best to be expressive while at the same being emotionally safe. If you're not sure, ask.
 
-Each of the three drafts is also worth 25 points (see below for compositional criteria).
+If you want highly specific exmaples of the kinds of subjects you might write about, read the main course text, [Grain of Truth](https://www.rosslaird.com/grain-of-truth/), as well as the [posts on the course website](https://crwr1100.netlify.com/posts/) (you're doing that anyway, right?).
+
+## Process Exercises
+
+You will complete nine creative exercises in this course and make notes about each (in your `notes.md` document on GitHub). These notes are intended to capture the essence of your experience and to provide opportunities for you to reflect upon your creativity. The notes for a given creative exercise need not be long (a couple of hundred words for each exercise is sufficient), but they can be as long as you like. Here are some possible themes to explore in these notes:
+
+* What does a given exercise teach you about your own creativity?
+* What was surprising or interesting about a given exercise?
+* Where did you have the most difficulty in a given exercise?
+* What was most joyful about a given exercise?
+* What memories, thoughts, or feelings were evoked by a given exercise?
+
+The instructions for each exercise include further suggestions for what might go into the notes.
+
+You may use as much of your process notes in your composition as you like. In fact, the exercises are designed to encourage this. You can copy relevant process notes directly into your draft composition, and you can use your creativity to find interesting ways to use the notes in your composition.
+
+# Grades
+
+The composition assignment will be completed in two stages (two drafts of the same document). You will simply continue to update your document with new and changed text, saving your changes using the GitHub `commit` mechanism (see below). As you write, you will edit your existing text as well as add new text (this is the essence of the writing process). Each commit is worth one point -- to a maximum of 25 points. However, in order to earn these 25 points, _you must make at least half as many deletions as additions_. In other words, you need to do some editing in addition to simply writing. You can see these numbers (deletions and additions) on GitHub in various places (such as the Contributors graph, under the Insights tab).
+
+Each of the two drafts is worth 25 points (see below for compositional criteria), and your commits to the draft are worth an additional 25 points.
+
+Your notes on the creative exercises are worth 25 points. For these notes, you do not need to do any extra editing (deletions and additions). Just add the notes each week.
+
+Here is the total picture for grades:
+
+| First Draft | Second Draft | Commits to Drafts | Exercise Notes |
+| ----------- | ------------ | ----------- | ------- |
+| 25  | 25 | 25    | 25 |
 
 ## The Composition Process
 
 During the first week of the semester you will receive a link, via email, to a GitHub repository which will be your online space to work on your composition. You will write your composition on GitHub, saving your changes as you go.
 
-#### Tip: Remember to bookmark your repository! You will be returning to it many times.
-
 ### Getting started
 
-Click the link you received, via email, to your personal repository. Login to GitHub (if you haven't already) and open the repository. You will see a file called `draft.md`. Click on the file name to open it. You will see some sample text. Click the pencil icon above and to the right (beside the trashcan) to edit the file. (You can ignore the buttons that say Raw, Blame, and History.)
+Click the link you received, via email, to your personal repository. Login to GitHub (if you haven't already) and open the repository. You will see a file called `draft.md`, and a scond file called `notes.md`. These are the files where you will write the drafts of your composition and your notes for the creative exercises. Click on a file name to open it. You will see some sample text. Click the pencil icon above and to the right (beside the trashcan) to edit the file. (You can ignore the buttons that say Raw, Blame, and History.)
 
 Edit your text using Markdown format (see [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) as well as below). You can toggle between editing and previewing using the tabs at the top of the editing box (the `Preview changes` tab has an eye icon). When you have written a few sentences (or even less), scroll to the bottom of the screen where a green button says `Commit changes`. Don't click that button yet. First, add a comment in the small box; something like "I wrote a paragraph about cookies". Suggested text is provided in this box; feel free to use that.
 
@@ -225,7 +263,7 @@ Commit messages are an excellent way to track what you have done and why.
 
 When you are ready to save your document, click the button that says `Commit`. Don't worry about the two small buttons that allow you to choose a branch. We won't be using those.
 
-### Privacy 
+### Privacy
 
 Your repository is only accessible by you and your instructor.
 
@@ -241,11 +279,11 @@ Markdown is designed to be straightforward and simple. Normally you will just se
 
 ### Line Wrapping
 
-The default line wrapping method on GitHub is `soft wrap.` That's probably the best option. You can also choose `no wrap` to see how that works. Both options are available at the top of the editing box.
+The default line wrapping method on GitHub is `soft wrap.` That's probably the best option. You can also choose `no wrap` to see how that works. Both options are available at the top of the editing box. The most common problem with line wrapping involves the addition of indents at the beginning of paragraphs (spaces or tabs). Don't do that. Instead, begin new paragraphs by hitting the enter key twice, and begin the text of the new paragraph from the left edge (without hitting the tab key or the spacebar to indent it).
 
 ### Previewing Your Document Formatting
 
-Every time you save (commit) your changes, or if you just view your document without editing it, GitHub will render your Markdown into HTML and show the document to you in your browser. This is an excellent way to check your formatting. You can also accomplish the same thing by clicking the `Preview changes` button (with an eye icon) whenever you are editing. Click `Edit file` to return to editing. 
+Every time you save (commit) your changes, or if you just view your document without editing it, GitHub will render your Markdown into HTML and show the document to you in your browser. This is an excellent way to check your formatting. You can also accomplish the same thing by clicking the `Preview changes` button (with an eye icon) whenever you are editing. Click `Edit file` to return to editing.
 
 ### Editing and Saving
 
@@ -253,9 +291,9 @@ Edit your document in your browser window. Save the document often, by using the
 
 ### Each commit is worth one point!
 
-Every time you make a commit, and if that commit reflects new or revised material (more than a single addition or deletion), you will receive one point. Please make at least 25 commits; doing so will earn you 25 points, which is the maximum number of points earned for this portion of the course. Remember that in order to earn these 25 points, _you must make at least half as many deletions as additions_. In other words, you need to do some editing in addition to simply writing. You can see these numbers (deletions and additions) on GitHub in various places (such as the `Contributors` graph, under the `Insights` tab).
+Every time you make a commit to your composition (in `draft.md`), and if that commit reflects new or revised material (more than a single addition or deletion), you will receive one point. Please make at least 25 commits to your composition; doing so will earn you 25 points, which is the maximum number of points earned for this portion of the course. Remember that in order to earn these 25 points, _you must make at least half as many deletions as additions_. In other words, you need to do some editing in addition to simply writing (this applies to the draft document only, not to your notes). You can see these numbers (deletions and additions) on GitHub in various places (such as the `Contributors` graph, under the `Insights` tab).
 
-You may find that you make more than 25 commits; that's fine. Make as many as you like. You will not earn any more points, but you may find that you track your document better. 
+You may find that you make more than 25 commits; that's fine. Make as many as you like. You will not earn any more points, but you may find that you track your document better.
 You can view your commit history and many other details about your activity inside your repository (as can your instructor) by clicking the `Insights` tab, then `Graphs`.
 
 Normally you will commit to the `master` branch. You will see this option whenever you make a commit. You will also see another option, to create a new branch and make a `pull request`. We won't be using that feature, so you can safely ignore it. (But if you are curious, you can read the GitHub documentation for [branching](https://guides.github.com/introduction/flow/).)
@@ -284,7 +322,7 @@ You do not need to submit anything or to signal that your draft is ready for rev
 
 ---
 
-### Assessment Criteria for the Creative Compositions
+### Assessment Criteria
 
 Projects for this course are focused on authentic and creative inquiry. Accordingly, the following criteria – which are based on the philosophy of creative inquiry – are used to evaluate engagement and commitment to the individual project:
 
@@ -299,7 +337,7 @@ Projects for this course are focused on authentic and creative inquiry. Accordin
 * Commitment to improvement in writing and creative work.
 * Ability to be open and responsive to appropriate feedback.
 
-In addition to the above criteria, compositional criteria are also used to evaluate your writing, as follows (in percentages):
+The above criteria will be used to assess your enagement with the creative exercises (as reflected in your notes). In addition, compositional criteria will also be used to evaluate your composition (as shown in your `draft.md` document), as follows:
 
 ##### 80 − 100
 Excellent: the use of language is pleasing and vigorous. The writing
@@ -354,14 +392,10 @@ has not tried.
 
 # Due Dates
 
-Compositions will be evaluated every month. The exact due dates are as follows:
-
-| First Draft | Second Draft | Third Draft | Commits |
+| First Draft | Second Draft | Notes | Commits |
 | ----------- | ------------ | ----------- | ------- |
 | January 31  | February 28  | March 31    | Ongoing |
 
 ## How to Submit a Draft?
 
 You do not need to submit anything or to signal that your draft is ready for review. Just keep working and committing (saving). Ross will review your draft in the weeks following the due dates above and will give you feedback on GitHub directly.
-
-

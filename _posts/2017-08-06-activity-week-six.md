@@ -14,4 +14,4 @@ Ask your partner to take some time to consider carefully, then describe to you t
 
 Now choose one of the images and write a narrative about it. For an example of how you might approach this, please read [Windbreaker](/myth/2017/08/07/windbreaker/), excerpted from my upcoming book on addictions. It's a short narrative about a single image of a man standing on a street corner.
 
-Add your narrative to your draft on GitHub. Commit the changes.
+Add your narrative to your notes on GitHub. Commit the changes.

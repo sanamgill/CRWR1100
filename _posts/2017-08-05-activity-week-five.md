@@ -10,4 +10,4 @@ Choose a sound that has meaning for you (or is at least interesting to you). It 
 
 Write a narrative about this sound. For an example of a narrative based on a sound, please read [Singing Bowl](/creativity/2017/08/08/singing-bowl/), excerpted from my upcoming book on addictions.
 
-Add your narrative to your draft on GitHub. Commit the changes.
+Add your narrative to your notes on GitHub. Commit the changes.

@@ -16,4 +16,4 @@ Now, using one or more of these movements (you don't have to use all of them), w
 
 Do not feel that you must create a serious narrative (as in my example). If you like, write a humorous vignette, or a wry observation. It's up to you; the example is just to illustrate what I would do in this situation, not necessarily what you will do.
 
-When you are done, read your narrative to your partner out loud. Discuss the process. Then, finally, think about how you might integrate this narrative into your composition. Add your notes and your narrative to your draft on GitHub. Commit the changes.
+When you are done, read your narrative to your partner out loud. Discuss the process. Then, finally, think about how you might integrate this narrative into your composition. Add your notes and your narrative to your notes on GitHub. Commit the changes.

@@ -24,4 +24,4 @@ Now try again, with a different object. Remember, the goal of the exercise is no
 
 Switch partners if you like (in this case, both partners must have secret objects to use). But in any event, make sure that at least one of the partners completes this exercise with at least three objects.
 
-When you are ready, make some notes about this experience and consider how you might integrate the object into your composition for the class. Add your narrative to your draft on GitHub. Commit the changes.
+When you are ready, make some notes about this experience and consider how you might integrate the object into your composition for the class. Add your narrative to your notes on GitHub. Commit the changes.
