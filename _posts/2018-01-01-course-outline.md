@@ -1,8 +1,9 @@
 ---
 date: 2017-12-29 16:35:29+00:00
 layout: post
+menu: true
 categories: [creativity]
-title: Course Outline for Creative Writing 1200
+title: Course Outline
 author: ross
 ---
 
