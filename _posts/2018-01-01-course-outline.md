@@ -233,7 +233,7 @@ You may use as much of your process notes in your composition as you like. In fa
 
 The composition assignment will be completed in two stages (two drafts of the same document). You will simply continue to update your document with new and changed text, saving your changes using the GitHub `commit` mechanism (see below). As you write, you will edit your existing text as well as add new text (this is the essence of the writing process). Each commit is worth one point -- to a maximum of 25 points. However, in order to earn these 25 points, _you must make at least half as many deletions as additions_. In other words, you need to do some editing in addition to simply writing. You can see these numbers (deletions and additions) on GitHub in various places (such as the Contributors graph, under the Insights tab).
 
-Each of the two drafts is worth 25 points (see below for compositional criteria), and your commits to the draft are worth an additional 25 points.
+Each of the two drafts is worth 25 points (see below for compositional criteria), and your commits to the drafts are worth an additional 25 points.
 
 Your notes on the creative exercises are worth 25 points. For these notes, you do not need to do any extra editing (deletions and additions). Just add the notes each week.
 
