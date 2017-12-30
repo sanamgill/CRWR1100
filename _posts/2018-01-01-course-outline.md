@@ -1,12 +1,10 @@
 ---
-date: 2018-01-01 16:35:29+00:00
+date: 2017-12-29 16:35:29+00:00
 layout: post
 categories: [creativity]
 title: Course Outline for Creative Writing 1200
 author: ross
 ---
-
-Welcome to Creative Writing 1200. You may wish to bookmark this page.
 
 This course provides an opportunity for learners to deepen their creative process, to work on their inner development, and improve their writing. Learners are encouraged to take appropriate risks, to challenge themselves creatively -- especially when doing so provokes discomfort -- and to be open to personal and interpersonal process. The course involves many experiential activities and many moments of possible discovery.
 
