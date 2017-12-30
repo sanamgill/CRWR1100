@@ -2,7 +2,7 @@
 layout: about
 title: About This Course
 menu: true
-order: 4
+order: 1
 ---
 
 The course provides an opportunity for learners to deepen their creative process, to work on their inner development, and improve their writing. Learners are encouraged to take appropriate risks, to challenge themselves creatively -- especially when doing so provokes discomfort -- and to be open to personal and interpersonal process. The course involves many experiential activities and many moments of possible discovery.

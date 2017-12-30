@@ -2,6 +2,7 @@
 date: 2017-12-29 16:35:29+00:00
 layout: post
 menu: true
+order: 2
 categories: [creativity]
 title: Course Outline
 author: ross
