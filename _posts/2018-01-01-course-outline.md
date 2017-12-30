@@ -130,7 +130,7 @@ Sometimes you might need to ask questions outside of class (for example, when yo
 
 ### Creating an Issue
 
-To create an issue, access the [GitHub website](www.github.com), and navigate to your repository. Select the `Issues` tab, then select `New Issue`. The new issue screen will provide a box for `title` and for `description`. 
+To create an issue, access the [GitHub website](https://www.github.com), and navigate to your repository. Select the `Issues` tab, then select `New Issue`. The new issue screen will provide a box for `title` and for `description`. 
 
 * Title: should concisely summarize your question, (for example, "How could I create better atmosphere in my text"?). Please do not ask questions about subjects already covered in the course outline or which are easily searchable online. Your title should _not_ have a non-descriptive title such as "Question".
 
