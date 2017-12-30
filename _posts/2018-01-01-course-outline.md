@@ -8,15 +8,18 @@ author: ross
 
 Welcome to Creative Writing 1200. You may wish to bookmark this page.
 
-Before going any farther, make sure you have a GitHub account. If you don't have one (or if you don't know), go [here](https://github.com/join). GitHub is free to join. Once you have signed up, come back to this page (you bookmarked it, right?) and continue reading below.
+This course provides an opportunity for learners to deepen their creative process, to work on their inner development, and improve their writing. Learners are encouraged to take appropriate risks, to challenge themselves creatively -- especially when doing so provokes discomfort -- and to be open to personal and interpersonal process. The course involves many experiential activities and many moments of possible discovery.
+
+The core focus of the course is on the development of self-knowledge, which is
+the ultimate quest. Every creative tradition and cultural mythology affirms this fundamental truth. The path of self-knowledge is the most rewarding journey we can undertake, yet it is also the hardest. We are challenged by our family histories, by our cultures, by our own traumas and vulnerabilities. And yet we must persist, as all the old tales say, so that we discover the essential unity between ourselves and the cosmos. That's what creativity has always been about. At its heart, creativity is the path of illumination. No matter how much we apply modern attitudes to the creative process, that process inexorably guides us inward, toward a confrontation with our own consciousness and with the vast story of the universe. And that journey does not end: it simply tracks every more deeply into vast and unfathomable mysteries.
+
+And so, whatever point learners find themselves in their own odysseys of self-discovery, this course encourages them to do some self-examination. All the great tales arise from the journey inward, and our own versions of that journey will be the source of our deepest and best creativity.
 
 ## Off We Go
 
-All of the course materials are on this page. Please read them.
+Before going any farther, make sure you have a GitHub account. If you don't have one (or if you don't know), go [here](https://github.com/join). GitHub is free to join. Once you have signed up, come back to this page (you bookmarked it, right?) and continue reading below.
 
-If you get stuck, open an issue using the `issues` tab in GitHub. (See below for instructions.)
-
-Also, please review the following online guides to GitHub:
+All of the course materials are on this page. Please read them. If you get stuck, open an issue using the `issues` tab in GitHub. (See below for instructions.) Also, please review the following online guides to GitHub:
 
 [Writing on GitHub](https://help.github.com/articles/about-writing-and-formatting-on-github/)
 
@@ -24,15 +27,9 @@ Also, please review the following online guides to GitHub:
 
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-## About the Course
-
-The course will include a variety of learning experiences contingent upon regular attendance and dedicated participation. Because creative inquiry is an interactive process, much of the class time will be devoted to group experiential exercises, individual reflective tasks, collaborative endeavors, and practical assignments.
-
-We will create a collaborative environment in this class. We are not going to cobble together the type of group one often hears about in the arts and education: competitive, cut-throat, critical. Instead, we will direct our efforts toward building upon the individual strengths of each participant, finding ways for each of us to be self-reflective in terms of assessing our work together, discovering a means of protecting the quality and integrity of our contributions. The creative spirit is remarkably persistent, yet it is also fragile, especially at its inception, and we must be conscious of this fragility. Think about it: did you not experience, as a child, the strangulation of your creativity in school, by way of a culture of insensitive peers or teachers? Why do you think hardly anyone feels comfortable singing in public, or dancing, or drawing, or reading their written work to others? We have, most of us, been the victims of inappropriate feedback and judgment. We have to be careful about this, in our course, so that we do not harm one another.
-
 #### Skill Development
 
-Perhaps it’s most helpful to come at creative writing in terms of a skill set. Thinking and acting creatively is really a matter of looking at the process of learning. Instead of focusing on the “content” we might ask questions about how we identify, interpret, create, and communicate this content. These are process questions. Below are some examples of the kinds of considerations we will explore during our process.
+Perhaps it’s most helpful to come at creativity in terms of a skill set. Thinking and acting creatively is really a matter of looking at the process of learning. Instead of focusing on the “content” we might ask questions about how we identify, interpret, create, and communicate this content. These are process questions. Below are some examples of the kinds of considerations we will explore during our process.
 
 ##### Creating a “Good” Question
 
@@ -75,12 +72,6 @@ What is happening at each stage of the creative process? What are the challenges
 Growing personally and professionally is a process that has no end point. Although growth is challenging and at times painful, growth is critical to finding meaning and vitality in our life and work. Living systems that come to an equilibrium with their environment — that stick with the status quo and are content living in their comfort zone — do not live for very long! For humans, growth requires self-evaluation, which in turn involves looking at our strengths and vulnerabilities, considering the evidence and feedback in these areas, identifying where we wish to grow, creating a game plan for how we plan to address our vulnerabilities, and celebrating our successes.
 
 Self-assessment involves asking questions such about how we wish to grow. What is involved in growing in a given area? What opportunities can we find and/or create to grow? How do we take responsibility for working on ourselves? How does the feedback from others and the results of our attempts to develop tell us how we are doing? How do we decide what to do with the feedback we receive from others?
-
-# Learning Experiences
-
-The course will include a variety of learning experiences contingent upon regular attendance and dedicated participation. Because creative inquiry is an interactive process, much of the class time will be devoted to group experiential exercises, individual reflective tasks, collaborative endeavors, and practical assignments.
-
-We will create a collaborative environment in this class. We are not going to cobble together the type of group one often hears about in the arts and education: competitive, cut-throat, critical. Instead, we will direct our efforts toward building upon the individual strengths of each participant, finding ways for each of us to be self-reflective in terms of assessing our work together, discovering a means of protecting the quality and integrity of our contributions. The creative spirit is remarkably persistent, yet it is also fragile, especially at its inception, and we must be conscious of this fragility. Think about it: did you not experience, as a child, the strangulation of your creativity in school, by way of a culture of insensitive peers or teachers? Why do you think hardly anyone feels comfortable singing in public, or dancing, or drawing, or reading their written work to others? We have, most of us, been the victims of inappropriate feedback and judgment. We have to be careful about this, in our course, so that we do not harm one another.
 
 # How to Succeed in this Class
 
