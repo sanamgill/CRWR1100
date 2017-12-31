@@ -86,9 +86,9 @@ Finally, please be attentive to the [KPU policies](https://www.kpu.ca/policies) 
 
 # Activities and Engagement
 
-Do all of the creative activities listed on the [course website](https://crwr1100.netlify.com/category/activities/). Do one activity each week for nine weeks. Instructions are included for each activity. If you get stuck, ask for help.
+Do all of the creative activities listed on the [course website](https://crwr1100.netlify.com/category/activities/). Do one activity each week for nine weeks. Instructions are included for each activity. If you get stuck, ask for help. (Note: if you have completed a previous course with Ross, you may have participated in one or more of these exercises. That's fine. Feel free to do them again, as you will have a different experience. However, if you find that you'd really like a new exercise or two, please get in touch with Ross).
 
-Then, after you have completed nine weeks of creative exercises, writing, and readings, you will have two weeks to complete your draft composition. You may use these two weeks to work on your own or in consultation with your instructor (using the communication methods outlined below).
+After you have completed nine weeks of creative exercises, writing, and readings, you will have two weeks to complete your draft composition. You may use these two weeks to work on your own or in consultation with your instructor (using the communication methods outlined below).
 
 This is a self-directed course, which makes your willingness to engage creatively with the learning process all the more important. Because developing a style of authentic creative inquiry is very much a process of blending your own personal awareness with skills and practical techniques, your own emotional involvement in the course is as important as your academic knowledge of the material.
 
