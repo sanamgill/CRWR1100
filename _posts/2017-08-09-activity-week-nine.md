@@ -1,5 +1,5 @@
 ---
-date: 2017-08-04 00:25:46+00:00
+date: 2018-01-01 00:00:00+00:00
 layout: post
 author: course
 categories: [activity]
@@ -10,4 +10,4 @@ Find a partner to work with, as usual. Ask your partner to describe one memory.
 
 Using this memory as if it were your own, describe it in a short narrative. (For examples of writing about memory, read [Grain of Truth](http://www.rosslaird.com/grain-of-truth/), which is filled with memories.)
 
-When you are ready, consider how this narrative might be used in your composition for the class. Add your narrative to your notes on GitHub. Commit the changes.
+When you are ready, consider your reactions to this memory (which is not your own), and write some reflections about it. Add your narrative and your reflections to your notes document on GitHub. Commit the changes.

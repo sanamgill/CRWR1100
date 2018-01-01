@@ -23,27 +23,27 @@ All of the course materials are on this page. Please read them. If you get stuck
 
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-#### Skill Development
+## Skill Development
 
 Perhaps it’s most helpful to come at creativity and creative writing in terms of a skill set. Thinking and acting creatively is really a matter of looking at the process of learning. Instead of focusing on the “content” we might ask questions about how we identify, interpret, create, and communicate this content. These are process questions. Below are some examples of the kinds of considerations we will explore during our process.
 
-##### Creating a “Good” Question
+#### Creating a “Good” Question
 
 The questions we ask tell us a lot about how we think, the assumptions we make and what we’re willing to accept as answers. What is a “good” question? How do questions emerge? Where do they come from? How does a creative question evolve? How do we hold space for our questions and how do they “work” on us? We will discuss these questions about questions, and see where they lead us.
 
-##### Critical Thinking and Crap Detection
+#### Critical Thinking and Crap Detection
 
 We are often quick to believe what we read and what we hear, especially when it comes from sources that we deem “authoritative.” Teachers, journal articles, media, books, professors, parents, and peers all have their own take on what is correct and true. Who is right? How do we know what we’re hearing is not false or misconstrued? What is true? From what perspective is it true? What other perspectives can be taken that are also true? What evidence is being used to support the claim? Is the evidence appropriate for the kind of claim being made? What ideologies, assumptions and beliefs are at play? How do they impact the interpretation of “facts”? And what are facts, anyway?
 
-##### Finding, Using and Evaluating Resources
+#### Finding, Using and Evaluating Resources
 
 Resources are what we use to accomplish something. We have internal resources such as courage, empathy, compassion, self-awareness, mindfulness and so on to help us create, learn and work with the challenges of life. People in our lives such as teachers, peers, mentors, and guides also have skills, experience, and knowledge that can potentially help us accomplish our goals. As well, the internet, books and other sources of information are valuable resources. How do we know what resources we need to accomplish a goal? Are they internal, interpersonal, or codified? What are the means by which we access these resources? How do we know if the sources we’re accessing are good or the right ones for our goal? How do we evaluate their quality?
 
-##### Communication (speaking, listening, writing, performing)
+#### Communication (speaking, listening, writing, performing)
 
 Language is expressed verbally and non-verbally in a particular relational context of culture, values and past experience. Our ability to translate ideas into words and actions, move an audience into a compelling dialogue, or simply be present to someone else, requires an awareness of these contexts and good communication skills. How does a mindful and embodied presence shape how we speak and listen? How do we write articulately, persuasively, and with accuracy and authenticity? How do our values shape the way we communicate?
 
-##### Working in a Group
+#### Working in a Group
 
 Groups offer invaluable opportunities for personal development and routinely transcend the efforts of any one individual. The following elements are some of the important capabilities required for healthy group process:
 
@@ -53,13 +53,13 @@ Groups offer invaluable opportunities for personal development and routinely tra
 * giving and receiving feedback
 * embracing and resolving minor conflicts
 
-##### Following Through on a Process
+#### Following Through on a Process
 
 Any creative process that generates new forms of knowledge (arts, sciences and otherwise) typically has a number of phases. These phases don’t always happen in order and are not necessarily distinct events, but it’s helpful to think about the eco-cycle of creative work. First, there is the discovery of interest or passion. The question or idea may not even be fully formed at this point, but there’s a spark that feels like it’s worth following. Next, we immerse ourselves in the topic. We read, have conversations, mess with different approaches. Basically, we commit to learning as much as we can about our passion. At some point we have consciously consumed as much as we can about the topic and we need a break from thinking about it. We let the questions incubate and trust that they are working under the surface in the dark soil. “Spring” eventually comes, perhaps after a long “winter”. Insights and breakthroughs emerge. Little shoots pop up out of the soil. We are careful to not jump to conclusions but instead create space for ideas and insights to slowly emerge through a process of articulating and capturing. In the last stages, we bring all the elements together in a creative synthesis and share the bounty of our harvest.
 
 What is happening at each stage of the creative process? What are the challenges of each stage? How do we support the work that needs to be done in each phase? How do we manage our time in such a way that we are able to do creative work sustainably? Doing the preparatory work, looking for and taking opportunities, experimenting, being realistic about time, taking care of mind/body/heart/soul, and attending to other responsibilities all require good skills in managing our time. And how do we balance these various factors?
 
-##### Self-Awareness and Self-Evaluation
+#### Self-Awareness and Self-Evaluation
 
 Growing personally and professionally is a process that has no end point. Although growth is challenging and at times painful, growth is critical to finding meaning and vitality in our life and work. Living systems that come to an equilibrium with their environment — that stick with the status quo and are content living in their comfort zone — do not live for very long! For humans, growth requires self-evaluation, which in turn involves looking at our strengths and vulnerabilities, considering the evidence and feedback in these areas, identifying where we wish to grow, creating a game plan for how we plan to address our vulnerabilities, and celebrating our successes.
 
@@ -84,7 +84,7 @@ If you wish to succeed in this course (and achieve a good grade), please do the 
 
 Finally, please be attentive to the [KPU policies](https://www.kpu.ca/policies) on academic honesty and plagiarism.
 
-# Activities and Engagement
+## Activities and Engagement
 
 Do all of the creative activities listed on the [course website](https://crwr1100.netlify.com/category/activities/). Do one activity each week for nine weeks. Instructions are included for each activity. If you get stuck, ask for help. (Note: if you have completed a previous course with Ross, you may have participated in one or more of these exercises. That's fine. Feel free to do them again, as you will have a different experience. However, if you find that you'd really like a new exercise or two, please get in touch with Ross).
 
@@ -195,53 +195,57 @@ These resources are focused on using GitHub and related tools (this list is prov
 
 ## Composition
 
-This is a writing course. Accordingly, you will write a composition. The minimum length of your (final) composition should be in the neighborhood of 2,000 words. You will create this composition in several stages. You may write more than 2,000 words, if you like. There is no maximum.
+This is a writing course. Accordingly, you will write a composition. The minimum length of your composition should be in the neighborhood of 2,000 words. You may write more than 2,000 words, if you like. There is no maximum.
 
-Your composition should be a nonfiction narrative on any topic you choose (your readings will be from many genres, but your writing will be nonfiction). The goal is to choose a subject about which you are passionate and to write in a form and style that best further your creativity and your passions. This is the hard part: deciding what to write about. You must decide; I won't assign a topic for you. The first step in authentic creativity involves getting a bit uncomfortable, and this kind of freedom in an academic setting is usually uncomfortable. Stick with the discomfort until something happens. To ease your anxiety about topics, here is a short list of possibilities:
+Your composition should be a nonfiction narrative on any topic you choose (your readings will be from many genres, but your writing will be nonfiction). The goal is to choose a subject about which you are passionate and to write in a form and style that best further your creativity. This is the hard part: deciding what to write about. You must decide; I won't assign a topic for you. The first step in authentic creativity involves getting a bit uncomfortable, and this kind of freedom in an academic setting is usually uncomfortable. Stick with the discomfort until something happens. To ease your anxiety about topics, here is a short list of possibilities:
 
 * A narrative that describes an experience that was meaningful to you (for example, a travel or childhood experience)
 * A narrative about an aspect of your inner life (for example, your relationship to your own creativity, or your struggle with procrastination)
 * A narrative about a particular subject of deep interest to you (for example, the mythologies of Egypt, or your passion for cooking)
 * A collection of poems on a specific theme (for example, nature)
 
-You only need to choose one topic, and you should choose it within the first two weeks of the course. Then you start writing about it (see below for how and where to do that). As a companion list to the one above, here is a short list of topics that I do not wish you to write about:
+You only need to choose one topic, and you should choose it within the first two weeks of the course. Then start writing about it (see below for how and where to do that). As a companion list to the one above, here is a short list of topics that I do not wish you to write about:
 
 * Video games
-* Zombies
+* Zombies (or other post-apocalyptic themes)
 * Movies, Manga, comics, or popular culture in general
 * Trauma (your own personal trauma)
 
-Any subject that is challenging for you to talk about openly (such as trauma) is a subject you should not write about. On the other hand, powerful personal experiences are often the best topics to write about, so please use your judgment in deciding how best to be expressive while at the same being emotionally safe. If you're not sure, ask.
+Any subject that is challenging for you to talk about openly (such as trauma) is a subject you should not write about. On the other hand, powerful personal experiences (including traumas) are often the best subject for creativity, so please use your judgment in deciding how best to be expressive while at the same being emotionally safe. If you're not sure, ask.
 
 If you want highly specific examples of the kinds of subjects you might write about, read the main course text, [Grain of Truth](https://www.rosslaird.com/grain-of-truth/), as well as the [posts on the course website](https://crwr1100.netlify.com/posts/) (you're doing that anyway, right?).
 
-## Process Exercises
+## Process Exercises and Reflections
 
-You will complete nine creative exercises in this course and make notes about each (in your `notes.md` document on GitHub). These notes are intended to capture the essence of your experience and to provide opportunities for you to reflect upon your creativity. The notes for a given creative exercise need not be long (a couple of hundred words for each exercise is sufficient), but they can be as long as you like. Here are some possible themes to explore in these notes:
+### Exercises
+You will complete nine creative exercises in this course: one exercise per week, for nine weeks. The instructions for each exercise include suggestions for notes and/or narratives for the exercise. You will draft these notes and narratives in your `notes.md` document on GitHub. The notes and narratives are intended to capture the essence of your experience and to provide opportunities for you to reflect upon your creativity. The notes and narratives for a given creative exercise need not be long (a couple of hundred words for each exercise is sufficient), but they can be as long as you like. 
+
+Each exercise provides instructions for crafting notes and/or narratives based on that exercise. You will also add more process-oriented reflections, as follows.
+
+### Reflections
+The reflections are opportunities for you to share your thoughts and feelings about a given exercise. Normally the reflections will follow the notes and/or narratives for a given exercise. The reflections focus on personal reactions, insights, and ideas. For an overview of the kinds of reflections that might be useful, please review the _Skill Development_ and _Activities and Engagement_ sections of this outline. In addition to those considerations and guidelines, here are a few more possible themes to explore in the reflections:
 
 * What does a given exercise teach you about your own creativity?
 * What was surprising or interesting about a given exercise?
 * Where did you have the most difficulty in a given exercise?
 * What was most joyful about a given exercise?
 * What memories, thoughts, or feelings were evoked by a given exercise?
-
-The instructions for each exercise include further suggestions for what might go into the notes.
-
-You may use as much of your process notes in your composition as you like. In fact, the exercises are designed to encourage this. You can copy relevant process notes directly into your draft composition, and you can use your creativity to find interesting ways to use the notes in your composition.
+* What might a given exercise teach you about your own challenges in personal development?
 
 # Grades
 
-The composition assignment will be completed in two stages (two drafts of the same document). You will simply continue to update your document with new and changed text, saving your changes using the GitHub `commit` mechanism (see below). As you write, you will edit your existing text as well as add new text (this is the essence of the writing process). Each commit is worth one point -- to a maximum of 25 points. However, in order to earn these 25 points, _you must make at least half as many deletions as additions_. In other words, you need to do some editing in addition to simply writing. You can see these numbers (deletions and additions) on GitHub in various places (such as the Contributors graph, under the Insights tab).
+As you work on your composition assignment, updating it with new and changed text, you will save your changes using the GitHub `commit` mechanism (see _The Composition Process_ below). These commits are worth one point each -- to a maximum of 25 points. However, in order to earn these 25 points, _you must make at least half as many deletions as additions_. In other words, you need to do some editing in addition to simply writing. You can see these numbers (deletions and additions) on GitHub in various places (such as the Contributors graph, under the Insights tab).
 
-Each of the two drafts is worth 25 points (see below for compositional criteria), and your commits to the drafts are worth an additional 25 points.
+Your composition is worth 25 points (see below for compositional criteria), and your commits to the composition are worth an additional 25 points.
 
-Your notes on the creative exercises are worth 25 points. For these notes, you do not need to do any extra editing (deletions and additions). Just add the notes each week.
+Your notes and narratives for the creative exercises (see the instructions for each exercise) are worth 25 points, and your reflections upon the exercises (see _Process Exercises and Relfections_ above) are worth an additional 25 points. For these notes, narratives, and reflections, you do not need to do any extra editing (deletions and additions). Just add them each week.
 
 Here is the total picture for grades:
 
-| First Draft | Second Draft | Commits to Drafts | Exercise Notes |
-| ----------- | ------------ | ----------------- | -------------- |
-| 25          | 25           | 25                | 25             |
+* Composition: 25
+* Commits to the Composition: 25
+* Creative Exercises Notes and Narratives: 25
+* Reflections on the Creative Exercises: 25
 
 ## The Composition Process
 
@@ -291,7 +295,7 @@ Edit your document in your browser window. Save the document often, by using the
 
 ### Each commit is worth one point!
 
-Every time you make a commit to your composition (in `draft.md`), and if that commit reflects new or revised material (more than a single addition or deletion), you will receive one point. Please make at least 25 commits to your composition; doing so will earn you 25 points, which is the maximum number of points earned for this portion of the course. Remember that in order to earn these 25 points, _you must make at least half as many deletions as additions_. In other words, you need to do some editing in addition to simply writing (this applies to the draft document only, not to your notes). You can see these numbers (deletions and additions) on GitHub in various places (such as the `Contributors` graph, under the `Insights` tab).
+Every time you make a commit to your composition (in `draft.md`), and if that commit reflects new or revised material (more than a single addition or deletion), you will receive one point. Please make at least 25 commits to your composition; doing so will earn you 25 points, which is the maximum number of points earned for this portion of the course. Remember that in order to earn these 25 points, _you must make at least half as many deletions as additions_. In other words, you need to do some editing in addition to simply writing (this applies to the draft document only, not to your notes and reflections from the creative exercises). You can see these numbers (deletions and additions) on GitHub in various places (such as the `Contributors` graph, under the `Insights` tab).
 
 You may find that you make more than 25 commits; that's fine. Make as many as you like. You will not earn any more points, but you may find that you track your document better.
 You can view your commit history and many other details about your activity inside your repository (as can your instructor) by clicking the `Insights` tab, then `Graphs`.
@@ -337,7 +341,7 @@ Projects for this course are focused on authentic and creative inquiry. Accordin
 * Commitment to improvement in writing and creative work.
 * Ability to be open and responsive to appropriate feedback.
 
-The above criteria will be used to assess your engagement with the creative exercises (as reflected in your notes). In addition, compositional criteria will be used to evaluate your composition (as shown in your `draft.md` document), as follows (in percentages):
+The above criteria will be used to assess your engagement with the creative exercises (as reflected in your notes and reflections). In addition, compositional criteria will be used to evaluate your composition (as shown in your `draft.md` document), as follows (in percentages):
 
 ##### 80 − 100
 Excellent: the use of language is pleasing and vigorous. The writing invites reading; the work is well-crafted and grammatically polished. The author is perceptive.
@@ -365,10 +369,12 @@ Fail: the author fails to understand the nature of creative writing or has not t
 
 # Due Dates
 
-| First Draft | Second Draft | Notes    | Commits |
-| ----------- | ------------ | -------- | ------- |
-| January 31  | February 28  | March 31 | Ongoing |
+* Composition: February 28
+* Commits to the Composition: February 28
+* Creative Exercise Narratives: March 15
+* Creative Exercise Reflections: March 30
 
-## How to Submit a Draft?
+## How to Submit Assignments?
 
-You do not need to submit anything or to signal that your draft is ready for review. Just keep working and committing (saving). Ross will review your draft in the weeks following the due dates above and will give you feedback on GitHub directly.
+You do not need to submit anything or to signal that your assignments are ready for review. Just keep working and committing (saving). Ross will review your documents in the weeks following the due dates above and will give you feedback on GitHub directly.
+
