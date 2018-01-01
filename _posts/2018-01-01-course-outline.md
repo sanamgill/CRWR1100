@@ -218,9 +218,9 @@ If you want highly specific examples of the kinds of subjects you might write ab
 ## Process Exercises and Reflections
 
 ### Exercises
-You will complete nine creative exercises in this course: one exercise per week, for nine weeks. The instructions for each exercise include suggestions for notes and/or narratives for the exercise. You will draft these notes and narratives in your `notes.md` document on GitHub. The notes and narratives are intended to capture the essence of your experience and to provide opportunities for you to reflect upon your creativity. The notes and narratives for a given creative exercise need not be long (a couple of hundred words for each exercise is sufficient), but they can be as long as you like. 
+You will complete [nine creative exercises](https://crwr1100.netlify.com/category/activities/) in this course: one exercise per week, for nine weeks. The instructions for each exercise include suggestions for notes and/or narratives for the exercise. You will draft these notes and narratives in your `notes.md` document on GitHub. The notes and narratives are intended to capture the essence of your experience and to provide opportunities for you to reflect upon your creativity. The notes and narratives for a given creative exercise need not be long (a couple of hundred words for each exercise is sufficient), but they can be as long as you like. 
 
-Each exercise provides instructions for crafting notes and/or narratives based on that exercise. You will also add more process-oriented reflections, as follows.
+[Each exercise](https://crwr1100.netlify.com/category/activities/) provides instructions for crafting notes and/or narratives based on that exercise. You will also add more process-oriented reflections, as follows.
 
 ### Reflections
 The reflections are opportunities for you to share your thoughts and feelings about a given exercise. Normally the reflections will follow the notes and/or narratives for a given exercise. The reflections focus on personal reactions, insights, and ideas. For an overview of the kinds of reflections that might be useful, please review the _Skill Development_ and _Activities and Engagement_ sections of this outline. In addition to those considerations and guidelines, here are a few more possible themes to explore in the reflections:
